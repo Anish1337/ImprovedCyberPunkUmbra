@@ -1,5 +1,5 @@
 # CyberPunk2077-umbra-WindowsTerminal
-CyberPunk2077-Umbra-Windows Terminal with a bright green cursor and pitch black background
+CyberPunk2077-Umbra-Windows Terminal with a bright green cursor and pitch black background instead
 
 ![preview](./pic.png)
 
