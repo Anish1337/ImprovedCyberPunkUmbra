@@ -1,10 +1,11 @@
 # CyberPunk2077-umbra-WindowsTerminal
-Spin off from https://github.com/prometheux-ar/cyberpunk for the Windows Terminal application.
+CyberPunk2077-Umbra-Windows Terminal with a bright green cursor and pitch black background
 
-![preview](./preview.png)
+![preview](![image](https://github.com/user-attachments/assets/d866b99e-5f11-4254-b178-68efca2f7ad1)
+)
 
 ## Installation
 
-Copy the content from [cyberpunkUmbra.json](https://raw.githubusercontent.com/mikevromen/CyberPunk2077-umbra-WindowsTerminal/master/cyberpunkUmbra.json) into your Windows terminal settings.json file into the array under **[schemes]**.
+Copy and paste the json file
 
 *The default location of the settings.json should be "C:\Users\WIN_USERNAME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState"*
