@@ -1,6 +1,6 @@
 {
     "name": "CyberPunkUmbra",
-    "background": "#100D23",
+    "background": "#000000",
     "black": "#272932",
     "blue": "#00B0FF",
     "brightBlack": "#7B8097",
@@ -11,7 +11,7 @@
     "brightRed": "#F02C35",
     "brightWhite": "#C1DEFF",
     "brightYellow": "#FFFC4C",
-    "cursorColor": "#FDF500",
+    "cursorColor": "#66FF00",
     "cyan": "#00D0DB",
     "foreground": "#04FF87",
     "green": "#1AC5B0",
@@ -20,4 +20,4 @@
     "selectionBackground": "#5E35B1",
     "white": "#D1C5C0",
     "yellow": "#FDF500"
-}
+},
