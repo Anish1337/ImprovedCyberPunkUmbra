@@ -5,5 +5,4 @@ CyberPunk2077-Umbra-Windows Terminal with a bright green cursor and pitch black 
 
 ## Installation
 
-Open Windows Terminal, press the dropdown, press settings, press open JSON file, copy the json contents from this directory under schemes
-*The default location of the settings.json should be "C:\Users\WIN_USERNAME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState"*
+Open Windows Terminal, press the dropdown, press settings, press open JSON file, copy the json contents from this directory under schemes.
