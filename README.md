@@ -1,8 +1,7 @@
 # CyberPunk2077-umbra-WindowsTerminal
 CyberPunk2077-Umbra-Windows Terminal with a bright green cursor and pitch black background
 
-![preview](![image](pic.png)
-)
+![preview](./pic.png)
 
 ## Installation
 
